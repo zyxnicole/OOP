@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "title": "Book0",
+      "publishedYeah": 0,
+      "numOfPages": 100,
+      "authors": [
+        "Nicole",
+        "Kevin"
+      ]
+    },
+    {
+      "title": "Book1",
+      "publishedYeah": 1,
+      "numOfPages": 101,
+      "authors": [
+        "Apple",
+        "Pear"
+      ]
+    },
+    {
+      "title": "Book2",
+      "publishedYeah": 2,
+      "numOfPages": 102,
+      "authors": [
+        "Cow",
+        "Rooster"
+      ]
+    }
+  ]
+}
